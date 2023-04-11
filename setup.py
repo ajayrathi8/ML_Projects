@@ -10,8 +10,4 @@ author="Ajay Rathi"
 author_email="rathiajay08@gmail.com"
 packages=find_packages(),
 install_requires=['pandas','numpy','seaborn']
-
-
-
-
 )
